@@ -9,12 +9,6 @@
   -o-transform: rotate(45deg);
   -moz-transform: rotate(45deg); }
 
-/*!
- * Bootstrap v4.3.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 :root {
   --blue: #5f76e8;
   --indigo: #6610f2;
@@ -7943,7 +7937,7 @@ sidebar navigation
         align-items: center;
         line-height: 27px;
         opacity: .7;
-        margin-right: 17px; }
+        margin: 8px; }
         .sidebar-nav #sidebarnav .sidebar-item .sidebar-link .feather-icon,
         .sidebar-nav #sidebarnav .sidebar-item .sidebar-link i {
           font-style: normal;
